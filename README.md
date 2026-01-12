@@ -1,4 +1,4 @@
-<h1 align="center">Hi 👋, I'm Raden Salman</h1>
+<h1 align="center">Hi 👋, I'm Raden Salman Alfaridzi</h1>
 <h3 align="center">A passionate frontend developer, reverse engineering and android mobile apps developer from Indonesia</h3>
 
 <p align="left"> <a href="https://twitter.com/radensalman_a" target="blank"><img src="https://img.shields.io/twitter/follow/radensalman_a?logo=twitter&style=for-the-badge" alt="radensalman_a" /></a> </p>
