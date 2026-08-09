@@ -1,6 +1,6 @@
 <h2 align="center">Hi👋, I'm</h2>
 <img src="https://readme-typing-svg.herokuapp.com/?font=Righteous&size=35&center=true&vCenter=true&width=500&height=70&duration=4000&lines=Raden+Salman+Al+Faridzi!;" />
-<h3 align="center">A passionate frontend developer, reverse engineering and android mobile apps developer from Indonesia</h3>
+<h3 align="center">A passionate full-stack developer, reverse engineering and android mobile apps developer from Indonesia</h3>
 
 - 🔭 I’m currently working on [ExtremeRouter](https://github.com/rsalmn/ExtremeRouter)
 - 👯 I’m looking to collaborate on [ExtremeRouter](https://github.com/rsalmn/ExtremeRouter)
@@ -26,7 +26,7 @@
 <div align="center">
   <h2>🐍 My Contributions 🐍</h2>
   <br>
-  <img alt="snake eating my contributions" src="https://raw.githubusercontent.com/salesp07/salesp07/output/github-contribution-grid-snake.svg" />
+  <img alt="snake eating my contributions" src="https://raw.githubusercontent.com/rsalmn/rsalmn/output/github-contribution-grid-snake.svg" />
   
   <br/><br/><br/>
 </div>
